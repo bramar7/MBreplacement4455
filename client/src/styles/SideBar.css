@@ -1,0 +1,45 @@
+.sidebar {
+    width: 256px;
+    height: 887px;
+    background-color: lightgoldenrodyellow;
+}
+
+.icon-home {
+    margin-left: 16px;
+    margin-top: 123px;
+    /*object-position: 16px 13px; */ 
+    height: 30px;
+    width: 30px;
+    opacity: 0.3;
+    color: #202020;
+    font-family: simple-line-icons;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+
+.icon-configuration {
+    margin-left: 16px;
+    margin-top: 16px;
+    height: 30px;
+    width: 30px;
+    color: #E02020;
+    font-family: simple-line-icons;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 22px;
+    opacity: 0.3;
+  }
+
+.icon-execution {
+    margin-left: 16px;
+    margin-top: 16px;
+    height: 25px;
+    width: 25px;
+    color: #E02020;
+    font-family: simple-line-icons;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 22px;
+    opacity: 0.3;
+  }
